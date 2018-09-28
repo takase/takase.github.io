@@ -8,7 +8,7 @@ e-mail: takase.sho [aatt] lab.ntt.co.jp
 ## Research Interest
 Knowledge acquisition  
 Phrase/Sentence composition  
-Neural Summarization
+Neural Language Model
 
 ## Publications
 #### Journal Papers
@@ -18,7 +18,7 @@ Neural Summarization
 
 
 #### (Refereed) International Conference Papers
-* <u>Sho Takase</u>, Jun Suzuki, Masaaki Nagata. Direct Output Connection for a High-Rank Language Model. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018).
+* <u>Sho Takase</u>, Jun Suzuki, Masaaki Nagata. Direct Output Connection for a High-Rank Language Model. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018). [pdf](https://arxiv.org/abs/1808.10143), [code](https://github.com/nttcslab-nlp/doc_lm).
 * Jun Suzuki, <u>Sho Takase</u>, Hidetaka Kamigaito, Makoto Morishita, Masaaki Nagata. An Empirical Study of Building a Strong Baseline for Constituency Parsing. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018).
 * <u>Sho Takase</u>, Jun Suzuki, Masaaki Nagata. Input-to-Output Gate to Improve RNN Language Models. In Proceedings of the 8th International Joint Conference on Natural Language Processing (IJCNLP 2017), pp.43--48, November 2017. [pdf](http://aclweb.org/anthology/I/I17/I17-2008.pdf), [code](https://github.com/nttcslab-nlp/iog)
 * Shota Sasaki, <u>Sho Takase</u>, Naoya Inoue, Naoaki Okazaki and Kentaro Inui. Handling Multiword Expressions in Causality Estimation. In proceedings of the 12th International Conference on Computational Semantics (IWCS 2017), Septembre 2017.
