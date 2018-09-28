@@ -1,6 +1,7 @@
-# Performance (perplexity, i.e., lower is better) of Neural Language Models
+# Perplexity (lower is better) of Neural Language Models
 
 Exclude scores of methods using test data statistics such as cache mechanism
+
 updated at 2018/9/28
 
 ### Penn Treebank (PTB)
