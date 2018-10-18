@@ -1,9 +1,8 @@
 # Sho Takase
 ###### ([slideshare](https://www.slideshare.net/shotakase33), [github](https://github.com/takase))
 
-NTT Communication Science Laboratories  
-Linguistic Intelligence Research Group  
-e-mail: takase.sho [aatt] lab.ntt.co.jp
+Researcher at Okazaki lab, Tokyo Institute of Technology
+e-mail: takase.s.aa [aatt] m.titech.ac.jp
 
 ## Research Interest
 Knowledge acquisition  
@@ -17,7 +16,9 @@ Neural Language Model
 * <u>Sho Takase</u>, Naoaki Okazaki, Kentaro Inui. Set Expansion Using Sibling Relationships Between Semantic Categories (in Japanese). Journal of Natural Language Processing, vol. 20, No. 2, June 2013. [pdf](https://www.jstage.jst.go.jp/article/jnlp/20/2/20_273/_pdf)
 
 
-#### (Refereed) International Conference Papers
+#### (Refereed) International Conference and Workshop Papers
+* Shun Kiyono, <u>Sho Takase</u>, Jun Suzuki, Naoaki Okazaki, Kentaro Inui and Masaaki Nagata. Reducing Odd Generation from Neural Headline Generation. In the Proceedings of the 32nd Pacific Asia Conference on Language, Information and Computing (PACLIC 32).
+* Shun Kiyono, <u>Sho Takase</u>, Jun Suzuki, Naoaki Okazaki, Kentaro Inui and Masaaki Nagata. Unsupervised Token-wise Alignment to Improve Interpretation of Encoder-Decoder models. In the Proceedings of the Analyzing and interpreting neural networks for NLP (BlackboxNLP).
 * <u>Sho Takase</u>, Jun Suzuki, Masaaki Nagata. Direct Output Connection for a High-Rank Language Model. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018). [pdf](https://arxiv.org/abs/1808.10143), [code](https://github.com/nttcslab-nlp/doc_lm), [score](https://takase.github.io/lm_performance).
 * Jun Suzuki, <u>Sho Takase</u>, Hidetaka Kamigaito, Makoto Morishita, Masaaki Nagata. An Empirical Study of Building a Strong Baseline for Constituency Parsing. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018).
 * <u>Sho Takase</u>, Jun Suzuki, Masaaki Nagata. Input-to-Output Gate to Improve RNN Language Models. In Proceedings of the 8th International Joint Conference on Natural Language Processing (IJCNLP 2017), pp.43--48, November 2017. [pdf](http://aclweb.org/anthology/I/I17/I17-2008.pdf), [code](https://github.com/nttcslab-nlp/iog), [score](https://takase.github.io/lm_performance).
