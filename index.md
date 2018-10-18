@@ -58,6 +58,7 @@ Neural Language Model
 
 
 ## Biography
+* Research associate, NTT Communication Science Laboratories (2017.4 - 2018.9).
 * Ph.D. Graduate School of Information Sciences, Tohoku University (2014. 4 - 2017. 3).
 * M.Sc. Graduate School of Information Sciences, Tohoku University (2012. 4 - 2014. 3).
 * B.Eng. Tohoku University (2008. 4 - 2012. 3).
