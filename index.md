@@ -2,7 +2,7 @@
 ###### ([slideshare](https://www.slideshare.net/shotakase33), [github](https://github.com/takase))
 
 Researcher at Okazaki lab, Tokyo Institute of Technology
-e-mail: takase.s.aa [aatt] m.titech.ac.jp
+e-mail: sho.takase [aatt] nlp.c.titech.ac.jp
 
 ## Research Interest
 Knowledge acquisition  
@@ -17,6 +17,7 @@ Neural Language Model
 
 
 #### (Refereed) International Conference and Workshop Papers
+* <u>Sho Takase</u>, Jun Suzuki, Masaaki Nagata. Character n-gram Embeddings to Improve RNN Language Models. In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI 2019).
 * Shun Kiyono, <u>Sho Takase</u>, Jun Suzuki, Naoaki Okazaki, Kentaro Inui and Masaaki Nagata. Reducing Odd Generation from Neural Headline Generation. In the Proceedings of the 32nd Pacific Asia Conference on Language, Information and Computing (PACLIC 32).
 * Shun Kiyono, <u>Sho Takase</u>, Jun Suzuki, Naoaki Okazaki, Kentaro Inui and Masaaki Nagata. Unsupervised Token-wise Alignment to Improve Interpretation of Encoder-Decoder models. In the Proceedings of the Analyzing and interpreting neural networks for NLP (BlackboxNLP).
 * <u>Sho Takase</u>, Jun Suzuki, Masaaki Nagata. Direct Output Connection for a High-Rank Language Model. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018). [pdf](https://arxiv.org/abs/1808.10143), [code](https://github.com/nttcslab-nlp/doc_lm), [score](https://takase.github.io/lm_performance).
