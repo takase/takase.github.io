@@ -1,4 +1,3 @@
-# Sho Takase
 ###### ([slideshare](https://www.slideshare.net/shotakase33), [github](https://github.com/takase))
 
 Researcher at Okazaki lab, Tokyo Institute of Technology
