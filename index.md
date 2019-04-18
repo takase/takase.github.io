@@ -16,7 +16,7 @@ Neural Language Model
 
 
 #### (Refereed) International Conference and Workshop Papers
-* <u>Sho Takase</u>, Naoaki Okazaki. Positional Encoding to Control Output Sequence Length. In Proceedings of 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT 2019).
+* <u>Sho Takase</u>, Naoaki Okazaki. Positional Encoding to Control Output Sequence Length. In Proceedings of 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT 2019). [pdf](https://arxiv.org/abs/1904.07418), [code](https://github.com/takase/control-length).
 * <u>Sho Takase</u>, Jun Suzuki, Masaaki Nagata. Character n-gram Embeddings to Improve RNN Language Models. In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI 2019).
 * Shun Kiyono, <u>Sho Takase</u>, Jun Suzuki, Naoaki Okazaki, Kentaro Inui and Masaaki Nagata. Reducing Odd Generation from Neural Headline Generation. In the Proceedings of the 32nd Pacific Asia Conference on Language, Information and Computing (PACLIC 32), 2018.
 * Shun Kiyono, <u>Sho Takase</u>, Jun Suzuki, Naoaki Okazaki, Kentaro Inui and Masaaki Nagata. Unsupervised Token-wise Alignment to Improve Interpretation of Encoder-Decoder models. In the Proceedings of the Analyzing and interpreting neural networks for NLP (BlackboxNLP), 2018.
