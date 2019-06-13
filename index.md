@@ -36,6 +36,7 @@ Neural Language Model
 
 
 ## Invited Talks
+* [Recent Studies on Neural Language Models（ニューラル言語モデルの研究動向）](https://speakerdeck.com/takase/niyuraruyan-yu-moderufalse-yan-jiu-dong-xiang-nlyan-zhao-dai-jiang-yan-zi-liao). IPSJ-SIGNL 240, June 2019.
 * [International Conference Report EMNLP 2016 (2)](http://www.ieice.org/ken/paper/20161221Nbo0/). The 18th Spoken Language Symposium & The Third Natural Language Processing Symposium, December 2016.
 * ACL 2013 Participation Report. The 8th NLP Symposium for Young Researchers, September 2013.
 
