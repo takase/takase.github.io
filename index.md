@@ -17,7 +17,7 @@ Neural Language Model
 
 #### (Refereed) International Conference and Workshop Papers
 * <u>Sho Takase</u>, Naoaki Okazaki. Positional Encoding to Control Output Sequence Length. In Proceedings of 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT 2019). [pdf](https://arxiv.org/abs/1904.07418), [code](https://github.com/takase/control-length).
-* <u>Sho Takase</u>, Jun Suzuki, Masaaki Nagata. Character n-gram Embeddings to Improve RNN Language Models. In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI 2019).
+* <u>Sho Takase</u>, Jun Suzuki, Masaaki Nagata. Character n-gram Embeddings to Improve RNN Language Models. In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI 2019). [pdf](https://arxiv.org/abs/1906.05506).
 * Shun Kiyono, <u>Sho Takase</u>, Jun Suzuki, Naoaki Okazaki, Kentaro Inui and Masaaki Nagata. Reducing Odd Generation from Neural Headline Generation. In the Proceedings of the 32nd Pacific Asia Conference on Language, Information and Computing (PACLIC 32), 2018.
 * Shun Kiyono, <u>Sho Takase</u>, Jun Suzuki, Naoaki Okazaki, Kentaro Inui and Masaaki Nagata. Unsupervised Token-wise Alignment to Improve Interpretation of Encoder-Decoder models. In the Proceedings of the Analyzing and interpreting neural networks for NLP (BlackboxNLP), 2018.
 * <u>Sho Takase</u>, Jun Suzuki, Masaaki Nagata. Direct Output Connection for a High-Rank Language Model. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018), pp. 4599--4609, 2018. [pdf](https://arxiv.org/abs/1808.10143), [code](https://github.com/nttcslab-nlp/doc_lm), [score](https://takase.github.io/lm_performance).
@@ -42,6 +42,8 @@ Neural Language Model
 
 
 ## Awards
+* Information Processing Society of Japan, Special Interest Group of Natural Language Processing (IPSJ-SIGNL) [Excellent Research Award](https://nl-ipsj.or.jp/award/) (2019).
+* The 25th Annual Meeting of the Association for Natural Language Processing Poster Award (2019)
 * JSAI Best Paper Award (2018).
 * The 24th Annual Meeting of the Association for Natural Language Processing Paper Award (2018).
 * Dean's Award for Excellence in Graduate School of Information Sciences at Tohoku University (2017).
@@ -57,6 +59,7 @@ Neural Language Model
 
 ## Program commitee member
 * Young Researcher Association for NLP Studies (YANS) (2017 - 2018).
+* Local committee and Workshop Chair of the 12th International Conference on Natural Language Generation (2019).
 
 
 ## Biography
