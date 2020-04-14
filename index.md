@@ -57,15 +57,20 @@ Neural Language Model
 <!-- 
 ## Grants
 * JSPS Research Fellowships for Young Scientists (DC1)
+* 科研費若手
+* MSRA奨学寄附金
 -->
 
 
 ## Program commitee member
-* Young Researcher Association for NLP Studies (YANS) (2017 - 2018).
+* General Chair of Young Researcher Association for NLP Studies (2020 - ).
 * Local committee and Workshop Chair of the 12th International Conference on Natural Language Generation (2019).
+* Young Researcher Association for NLP Studies (YANS) (2017 - 2018).
 
 
 ## Biography
+* Assistant Professor, Tokyo Institute of Technology (2020. 4 - ).
+* Researcher, Tokyo Institute of Technology (2018.10 - 2020. 3).
 * Research associate, NTT Communication Science Laboratories (2017.4 - 2018.9).
 * Ph.D. Graduate School of Information Sciences, Tohoku University (2014. 4 - 2017. 3).
 * M.Sc. Graduate School of Information Sciences, Tohoku University (2012. 4 - 2014. 3).
