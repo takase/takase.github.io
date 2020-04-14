@@ -16,7 +16,9 @@ Neural Language Model
 
 
 #### (Refereed) International Conference and Workshop Papers
+* Kazuki Matsumaru, <u>Sho Takase</u>, Naoaki Okazaki. Improving Truthfulness of Headline Generation. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020).
 * Masaaki Nishino, <u>Sho Takase</u>, Tsutomu Hirao, Masaaki Nagata. Generating Natural Anagrams:Towards Language Generation Under Hard Combinatorial Constraints. In Proceedings of 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP 2019).
+* Yuichi Sasazawa, <u>Sho Takase</u>, Naoaki Okazaki. Neural Question Generation using Interrogative Phrases. In Proceedings of the 12th International Conference on Natural Language Generation (INLG 2019), pp. 106--111, 2019.
 * <u>Sho Takase</u>, Naoaki Okazaki. Positional Encoding to Control Output Sequence Length. In Proceedings of 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT 2019), pp. 3999--4004, 2019. [pdf](https://arxiv.org/abs/1904.07418), [code](https://github.com/takase/control-length).
 * <u>Sho Takase</u>, Jun Suzuki, Masaaki Nagata. Character n-gram Embeddings to Improve RNN Language Models. In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI 2019). [pdf](https://arxiv.org/abs/1906.05506).
 * Shun Kiyono, <u>Sho Takase</u>, Jun Suzuki, Naoaki Okazaki, Kentaro Inui and Masaaki Nagata. Reducing Odd Generation from Neural Headline Generation. In the Proceedings of the 32nd Pacific Asia Conference on Language, Information and Computing (PACLIC 32), 2018.
