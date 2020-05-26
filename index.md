@@ -34,6 +34,9 @@ Neural Language Model
 * <u>Sho Takase</u>, Naoaki Okazaki and Kentaro Inui. Set Expansion using Sibling Relations between Semantic Categories. In Proceedings of the 26th Pacific Asia Conference on Language Information and Computing (PACLIC26), pp.525--534, November 2012. [pdf](http://www.aclweb.org/anthology/Y12-1057)
 
 
+#### Preprint
+* <u>Sho Takase</u>, Sosuke Kobayashi. All Word Embeddings from One Embedding. [pdf](https://arxiv.org/abs/2004.12073), [code](https://github.com/takase/alone_seq2seq).
+
 #### Misc
 * <u>Sho Takase</u>, Naoaki Okazaki. Construction of Relation Knowledge Base from Natural Language Text. Journal of Japan Society for Fuzzy Theory and Intelligent Informatics, vol. 29, No. 2, pp.55--64, April 2017, in Japanese.
 
