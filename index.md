@@ -73,7 +73,7 @@ Neural Language Model
 
 ## Lecture
 * Advanced Procedural Programming (2020 - ).
-
+* Forum on Artificial Intelligence (2020 - ).
 
 ## Biography
 * Assistant Professor, Tokyo Institute of Technology (2020. 4 - ).
