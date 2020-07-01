@@ -49,6 +49,7 @@ Neural Language Model
 
 
 ## Awards
+* Outstanding reviewer, EMNLP-IJCNLP 2019 (2019).
 * Information Processing Society of Japan, Special Interest Group of Natural Language Processing (IPSJ-SIGNL) [Excellent Research Award](https://nl-ipsj.or.jp/award/) (2019).
 * The 25th Annual Meeting of the Association for Natural Language Processing Poster Award (2019)
 * JSAI Best Paper Award (2018).
