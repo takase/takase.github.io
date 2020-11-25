@@ -16,6 +16,8 @@ Neural Language Model
 
 
 #### (Refereed) International Conference and Workshop Papers
+* <u>Sho Takase</u>, Sosuke Kobayashi. All Word Embeddings from One Embedding. In Proceedings of the thirty-fourth Conference on Neural Information Processing Systems (NeurIPS), 2020. [code](https://github.com/takase/alone_seq2seq).
+* Tatsuya Hiraoka, <u>Sho Takase</u>, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Optimizing Word Segmentation for Downstream Task. In Findings of the Association for Computational Linguistics: EMNLP 2020. pp. 1341--1351, 2020.
 * Kazuki Matsumaru, <u>Sho Takase</u>, Naoaki Okazaki. Improving Truthfulness of Headline Generation. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020).
 * Sho Shimazu, <u>Sho Takase</u>, Toshiaki Nakazawa, Naoaki Okazaki. Evaluation Dataset for Zero Pronoun in Japanese to English Translation. In Proceedings of The 12th Language Resources and Evaluation Conference (LREC 2020), pp. 3630--3634, 2020.
 * Masaaki Nishino, <u>Sho Takase</u>, Tsutomu Hirao, Masaaki Nagata. Generating Natural Anagrams:Towards Language Generation Under Hard Combinatorial Constraints. In Proceedings of 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP 2019).
@@ -36,7 +38,7 @@ Neural Language Model
 
 
 #### Preprint
-* <u>Sho Takase</u>, Sosuke Kobayashi. All Word Embeddings from One Embedding. [pdf](https://arxiv.org/abs/2004.12073), [code](https://github.com/takase/alone_seq2seq).
+
 
 #### Misc
 * <u>Sho Takase</u>, Naoaki Okazaki. Construction of Relation Knowledge Base from Natural Language Text. Journal of Japan Society for Fuzzy Theory and Intelligent Informatics, vol. 29, No. 2, pp.55--64, April 2017, in Japanese.
