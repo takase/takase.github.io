@@ -47,8 +47,8 @@ Neural Language Model
 ## Invited Talks
 * 自然言語処理におけるニューラルモデルのパラメータ数削減. 第5回愛媛大学DSセミナー, Feb 2021.
 * [ニューラル言語モデルの研究動向](https://speakerdeck.com/takase/niyuraruyan-yu-moderufalse-yan-jiu-dong-xiang-nlyan-zhao-dai-jiang-yan-zi-liao). IPSJ-SIGNL 240, June 2019.
-* [国際会議 EMNLP 2016 参加報告 (2)](http://www.ieice.org/ken/paper/20161221Nbo0/). The 18th Spoken Language Symposium & The Third Natural Language Processing Symposium, December 2016.
-* ACL 2013 参加報告. The 8th NLP Symposium for Young Researchers, September 2013.
+* [国際会議 EMNLP 2016 参加報告 (2)](http://www.ieice.org/ken/paper/20161221Nbo0/). 第18回音声言語シンポジウム & 第3回自然言語処理シンポジウム, December 2016.
+* ACL 2013 参加報告. NLP若手の会第8回シンポジウム, September 2013.
 
 <!-- 
 * [Recent Studies on Neural Language Models（ニューラル言語モデルの研究動向）](https://speakerdeck.com/takase/niyuraruyan-yu-moderufalse-yan-jiu-dong-xiang-nlyan-zhao-dai-jiang-yan-zi-liao). IPSJ-SIGNL 240, June 2019.
