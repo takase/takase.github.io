@@ -1,6 +1,6 @@
 ###### ([slideshare](https://www.slideshare.net/shotakase33), [github](https://github.com/takase))
 
-Researcher at Okazaki lab, Tokyo Institute of Technology
+Assistant Professor at Okazaki lab, Tokyo Institute of Technology
 e-mail: sho.takase [aatt] nlp.c.titech.ac.jp
 
 ## Research Interest
@@ -16,7 +16,8 @@ Neural Language Model
 
 
 #### (Refereed) International Conference and Workshop Papers
-* <u>Sho Takase</u>, Sosuke Kobayashi. All Word Embeddings from One Embedding. In Proceedings of the thirty-fourth Conference on Neural Information Processing Systems (NeurIPS), 2020. [code](https://github.com/takase/alone_seq2seq).
+* <u>Sho Takase</u>, Shun Kiyono. Rethinking Perturbations in Encoder-Decoders for Fast Training. In Proceedings of 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT 2021).
+* <u>Sho Takase</u>, Sosuke Kobayashi. All Word Embeddings from One Embedding. In Proceedings of the thirty-fourth Conference on Neural Information Processing Systems (NeurIPS), 2020. [pdf](https://papers.nips.cc/paper/2020/hash/275d7fb2fd45098ad5c3ece2ed4a2824-Abstract.html), [code](https://github.com/takase/alone_seq2seq).
 * Tatsuya Hiraoka, <u>Sho Takase</u>, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Optimizing Word Segmentation for Downstream Task. In Findings of the Association for Computational Linguistics: EMNLP 2020. pp. 1341--1351, 2020.
 * Kazuki Matsumaru, <u>Sho Takase</u>, Naoaki Okazaki. Improving Truthfulness of Headline Generation. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020).
 * Sho Shimazu, <u>Sho Takase</u>, Toshiaki Nakazawa, Naoaki Okazaki. Evaluation Dataset for Zero Pronoun in Japanese to English Translation. In Proceedings of The 12th Language Resources and Evaluation Conference (LREC 2020), pp. 3630--3634, 2020.
@@ -38,13 +39,15 @@ Neural Language Model
 
 
 #### Preprint
-
+* <u>Sho Takase</u>, Naoaki Okazaki. Multi-Task Learning for Cross-Lingual Abstractive Summarization. [pdf](https://arxiv.org/abs/2010.07503)
 
 #### Misc
+* <u>高瀬 翔</u>. NLP若手の会（YANS）シンポジウム. Journal of Natural Language Processing, vol. 28, No. 1, Mar 2021.
 * <u>Sho Takase</u>, Naoaki Okazaki. Construction of Relation Knowledge Base from Natural Language Text. Journal of Japan Society for Fuzzy Theory and Intelligent Informatics, vol. 29, No. 2, pp.55--64, April 2017, in Japanese.
 
 
-## Invited Talks
+## Talks
+* NeurIPS2020の概観とニューラルモデルのパラメータ数削減. 第79回人工知能セミナー, Mar, 2021.
 * 自然言語処理におけるニューラルモデルのパラメータ数削減. 第5回愛媛大学DSセミナー, Feb 2021.
 * [ニューラル言語モデルの研究動向](https://speakerdeck.com/takase/niyuraruyan-yu-moderufalse-yan-jiu-dong-xiang-nlyan-zhao-dai-jiang-yan-zi-liao). IPSJ-SIGNL 240, June 2019.
 * [国際会議 EMNLP 2016 参加報告 (2)](http://www.ieice.org/ken/paper/20161221Nbo0/). 第18回音声言語シンポジウム & 第3回自然言語処理シンポジウム, December 2016.
@@ -77,13 +80,20 @@ Neural Language Model
 
 
 ## Program commitee member
-* General Chair of Young Researcher Association for NLP Studies (2020 - ).
+* 言語処理学会会誌「自然言語処理」編集委員 (2020 - ).
+* NLP若手の会（YANS）運営委員長 (2020 - ).
 * Local committee and Workshop Chair of the 12th International Conference on Natural Language Generation (2019).
-* Young Researcher Association for NLP Studies (YANS) (2017 - 2018).
+* NLP若手の会（YANS）運営委員 (2017 - 2018).
+
+<!-- 
+General Chair of Young Researcher Association for NLP Studies
+Young Researcher Association for NLP Studies (YANS) 
+-->
 
 ## Lecture
-* Advanced Procedural Programming (2020 - ).
-* Forum on Artificial Intelligence (2020 - ).
+* 手続き型プログラミング（発展） (2020 - ).
+* 知能情報フォーラム (2020 - ).
+* 高次ヒューマンインタフェース（非常勤講師） (2020 - ).
 
 ## Biography
 * Assistant Professor, Tokyo Institute of Technology (2020. 4 - ).
