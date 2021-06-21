@@ -10,6 +10,7 @@ Neural Language Model
 
 ## Publications
 #### Journal Papers
+* Tatsuya Hiraoka, <u>Sho Takase</u>, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Optimizing Word Segmentation for Downstream Tasks by Weighting Text Vector (in Japanese). Journal of Natural Language Processing, vol. 28, No. 2, pp. 479--507, June 2020. [pdf](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_479/_pdf/-char/ja)
 * <u>Sho Takase</u>, Naoaki Okazaki, Kentaro Inui. Learning to Compose Distributed Representations of Relational Patterns (in Japanese). Transactions of the Japanese Society for Artificial Intelligence, vol. 32, No. 4., July 2017. [pdf](https://www.jstage.jst.go.jp/article/tjsai/32/4/32_D-G96/_pdf)
 * <u>Sho Takase</u>, Naoaki Okazaki, Kentaro Inui. Modeling semantic compositionality of relational patterns. Engineering Applications of Artificial Intelligence, vol. 50, pp.256--264, April 2016. [pdf](http://ac.els-cdn.com/S0952197616000312/1-s2.0-S0952197616000312-main.pdf?_tid=ae7b0c08-dac8-11e5-93d8-00000aab0f01&acdnat=1456299296_77b433935f238167c491daab4fcf31f9)
 * <u>Sho Takase</u>, Naoaki Okazaki, Kentaro Inui. Set Expansion Using Sibling Relationships Between Semantic Categories (in Japanese). Journal of Natural Language Processing, vol. 20, No. 2, June 2013. [pdf](https://www.jstage.jst.go.jp/article/jnlp/20/2/20_273/_pdf)
