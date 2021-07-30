@@ -17,7 +17,8 @@ Neural Language Model
 
 
 #### (Refereed) International Conference and Workshop Papers
-* <u>Sho Takase</u>, Shun Kiyono. Rethinking Perturbations in Encoder-Decoders for Fast Training. In Proceedings of 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT 2021).
+* Tatsuya Hiraoka, <u>Sho Takase</u>, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Joint Optimization of Tokenization and Downstream Model. In Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021. pp. 244--255, 2021.
+* <u>Sho Takase</u>, Shun Kiyono. Rethinking Perturbations in Encoder-Decoders for Fast Training. In Proceedings of 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT 2021), pp. 5767–-5780, 2021. [pdf](https://aclanthology.org/2021.naacl-main.460.pdf), [code](https://github.com/takase/rethink_perturbations), [slide](https://www.slideshare.net/shotakase33/rethinking-perturbations-in-encoderdecoders-for-fast-training).
 * <u>Sho Takase</u>, Sosuke Kobayashi. All Word Embeddings from One Embedding. In Proceedings of the thirty-fourth Conference on Neural Information Processing Systems (NeurIPS), 2020. [pdf](https://papers.nips.cc/paper/2020/hash/275d7fb2fd45098ad5c3ece2ed4a2824-Abstract.html), [code](https://github.com/takase/alone_seq2seq).
 * Tatsuya Hiraoka, <u>Sho Takase</u>, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Optimizing Word Segmentation for Downstream Task. In Findings of the Association for Computational Linguistics: EMNLP 2020. pp. 1341--1351, 2020.
 * Kazuki Matsumaru, <u>Sho Takase</u>, Naoaki Okazaki. Improving Truthfulness of Headline Generation. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020).
