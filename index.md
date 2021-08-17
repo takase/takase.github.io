@@ -49,6 +49,7 @@ Neural Language Model
 
 
 ## Talks
+* 少量の計算資源でも利用可能な自然言語処理モデルを目指して. 第27回ステアラボ人工知能セミナー, May, 2021. [pdf](https://www.slideshare.net/shotakase33/stair-lab-seminar-202105), [video](https://youtu.be/h7wTXHjYNxA).
 * NeurIPS2020の概観とニューラルモデルのパラメータ数削減. 第79回人工知能セミナー, Mar, 2021.
 * 自然言語処理におけるニューラルモデルのパラメータ数削減. 第5回愛媛大学DSセミナー, Feb 2021.
 * [ニューラル言語モデルの研究動向](https://speakerdeck.com/takase/niyuraruyan-yu-moderufalse-yan-jiu-dong-xiang-nlyan-zhao-dai-jiang-yan-zi-liao). IPSJ-SIGNL 240, June 2019.
