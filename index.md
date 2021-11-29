@@ -10,6 +10,7 @@ Neural Language Model
 
 ## Publications
 #### Journal Papers
+* Tatsuya Hiraoka, <u>Sho Takase</u>, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Recurrent Neural Hidden Markov Model for High-Order Transition. ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), vol. 21, issue 2, pp. 1–-15, March 2022. [pdf](https://dl.acm.org/doi/pdf/10.1145/3476511)
 * Tatsuya Hiraoka, <u>Sho Takase</u>, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Optimizing Word Segmentation for Downstream Tasks by Weighting Text Vector (in Japanese). Journal of Natural Language Processing, vol. 28, No. 2, pp. 479--507, June 2021. [pdf](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_479/_pdf/-char/ja)
 * <u>Sho Takase</u>, Naoaki Okazaki, Kentaro Inui. Learning to Compose Distributed Representations of Relational Patterns (in Japanese). Transactions of the Japanese Society for Artificial Intelligence, vol. 32, No. 4., July 2017. [pdf](https://www.jstage.jst.go.jp/article/tjsai/32/4/32_D-G96/_pdf)
 * <u>Sho Takase</u>, Naoaki Okazaki, Kentaro Inui. Modeling semantic compositionality of relational patterns. Engineering Applications of Artificial Intelligence, vol. 50, pp.256--264, April 2016. [pdf](http://ac.els-cdn.com/S0952197616000312/1-s2.0-S0952197616000312-main.pdf?_tid=ae7b0c08-dac8-11e5-93d8-00000aab0f01&acdnat=1456299296_77b433935f238167c491daab4fcf31f9)
@@ -50,7 +51,7 @@ Neural Language Model
 
 ## Talks
 * 少量の計算資源でも利用可能な自然言語処理モデルを目指して. 第27回ステアラボ人工知能セミナー, May, 2021. [pdf](https://www.slideshare.net/shotakase33/stair-lab-seminar-202105), [video](https://youtu.be/h7wTXHjYNxA).
-* NeurIPS2020の概観とニューラルモデルのパラメータ数削減. 第79回人工知能セミナー, Mar, 2021.
+* [NeurIPS2020の概観とニューラルモデルのパラメータ数削減](https://www.slideshare.net/shotakase33/neurips2020). 第79回人工知能セミナー, Mar, 2021.
 * 自然言語処理におけるニューラルモデルのパラメータ数削減. 第5回愛媛大学DSセミナー, Feb 2021.
 * [ニューラル言語モデルの研究動向](https://speakerdeck.com/takase/niyuraruyan-yu-moderufalse-yan-jiu-dong-xiang-nlyan-zhao-dai-jiang-yan-zi-liao). IPSJ-SIGNL 240, June 2019.
 * [国際会議 EMNLP 2016 参加報告 (2)](http://www.ieice.org/ken/paper/20161221Nbo0/). 第18回音声言語シンポジウム & 第3回自然言語処理シンポジウム, December 2016.
