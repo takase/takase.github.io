@@ -18,6 +18,10 @@ Neural Language Model
 
 
 #### (Refereed) International Conference and Workshop Papers
+* Mengsay Loem, <u>Sho Takase</u>, Masahiro Kaneko, Naoaki Okazaki. ExtraPhrase: Efficient Data Augmentation for Abstractive Summarization. In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop. pp. 16–-24, 2022.
+* Tatsuya Hiraoka, <u>Sho Takase</u>, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Word-level Perturbation Considering Word Length and Compositional Subwords. pp. 3268-–3275, 2022.
+* <u>Sho Takase</u>, Tatsuya Hiraoka, Naoaki Okazaki. Word-level Perturbation Considering Word Length and Compositional Subwords. In Findings of the Association for Computational Linguistics: ACL 2022. pp. 3268–-3275, 2022.
+* Masahiro Kaneko, <u>Sho Takase</u>, Ayana Niwa, Naoaki Okazaki. Interpretability for Language Learners Using Example-Based Grammatical Error Correction. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics. pp. 7176–-7187, 2022.
 * Tatsuya Hiraoka, <u>Sho Takase</u>, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Joint Optimization of Tokenization and Downstream Model. In Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021. pp. 244--255, 2021.
 * <u>Sho Takase</u>, Shun Kiyono. Rethinking Perturbations in Encoder-Decoders for Fast Training. In Proceedings of 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT 2021), pp. 5767–-5780, 2021. [pdf](https://aclanthology.org/2021.naacl-main.460.pdf), [code](https://github.com/takase/rethink_perturbations), [slide](https://www.slideshare.net/shotakase33/rethinking-perturbations-in-encoderdecoders-for-fast-training).
 * <u>Sho Takase</u>, Sosuke Kobayashi. All Word Embeddings from One Embedding. In Proceedings of the thirty-fourth Conference on Neural Information Processing Systems (NeurIPS), 2020. [pdf](https://papers.nips.cc/paper/2020/hash/275d7fb2fd45098ad5c3ece2ed4a2824-Abstract.html), [code](https://github.com/takase/alone_seq2seq).
@@ -43,8 +47,11 @@ Neural Language Model
 
 #### Preprint
 * <u>Sho Takase</u>, Naoaki Okazaki. Multi-Task Learning for Cross-Lingual Abstractive Summarization. [pdf](https://arxiv.org/abs/2010.07503)
+* <u>Sho Takase</u>, Shun Kiyono, Sosuke Kobayashi, Jun Suzuki. On Layer Normalizations and Residual Connections in Transformers. [pdf](https://arxiv.org/abs/2206.00330), [code](https://github.com/takase/b2t_connection).
 
 #### Misc
+* <u>高瀬 翔</u>. NLP若手の会 (YANS) 第 16 回シンポジウム ―オンライン開催における施策について―. Journal of Natural Language Processing, vol. 28, No. 4, Dec 2021.
+* <u>高瀬 翔</u>. 実験を通して既存手法を整理する ―系列変換タスクにおける摂動の効率の調査―. Journal of Natural Language Processing, vol. 28, No. 3, Sep 2021.
 * <u>高瀬 翔</u>. NLP若手の会（YANS）シンポジウム. Journal of Natural Language Processing, vol. 28, No. 1, Mar 2021.
 * <u>Sho Takase</u>, Naoaki Okazaki. Construction of Relation Knowledge Base from Natural Language Text. Journal of Japan Society for Fuzzy Theory and Intelligent Informatics, vol. 29, No. 2, pp.55--64, April 2017, in Japanese.
 
@@ -65,11 +72,14 @@ Neural Language Model
 
 
 ## Awards
+* The Association for Natural Language Processing Best paper award (first place) (2022).
+* The 28th Annual Meeting of The Association for Natural Language Processing Special Committee Award (2022).
+* The 28th Annual Meeting of the Association for Natural Language Processing Best Paper Award (2022).
 * Outstanding reviewer, EMNLP-IJCNLP 2019 (2019).
 * Information Processing Society of Japan, Special Interest Group of Natural Language Processing (IPSJ-SIGNL) [Excellent Research Award](https://nl-ipsj.or.jp/award/) (2019).
 * The 25th Annual Meeting of the Association for Natural Language Processing Poster Award (2019)
 * JSAI Best Paper Award (2018).
-* The 24th Annual Meeting of the Association for Natural Language Processing Paper Award (2018).
+* The 24th Annual Meeting of the Association for Natural Language Processing Best Paper Award (2018).
 * Dean's Award for Excellence in Graduate School of Information Sciences at Tohoku University (2017).
 * The 29th Annual Meeting of the JSAI Conference Student Incentive Award (2015).
 * The 21th Annual Meeting of the Association for Natural Language Processing Excellent Paper Award (2015).
@@ -85,7 +95,7 @@ Neural Language Model
 
 ## Program commitee member
 * 言語処理学会会誌「自然言語処理」編集委員 (2020 - ).
-* NLP若手の会（YANS）運営委員長 (2020 - ).
+* NLP若手の会（YANS）運営委員長 (2020 - 2022).
 * Local committee and Workshop Chair of the 12th International Conference on Natural Language Generation (2019).
 * NLP若手の会（YANS）運営委員 (2017 - 2018).
 
@@ -97,7 +107,7 @@ Young Researcher Association for NLP Studies (YANS)
 ## Lecture
 * 手続き型プログラミング（発展） (2020 - ).
 * 知能情報フォーラム (2020 - ).
-* 高次ヒューマンインタフェース（非常勤講師） (2020 - ).
+* 高次ヒューマンインタフェース（非常勤講師） (2020 - 2021).
 
 ## Biography
 * Assistant Professor, Tokyo Institute of Technology (2020. 4 - ).
