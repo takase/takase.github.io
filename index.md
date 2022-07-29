@@ -10,6 +10,7 @@ Neural Language Model
 
 ## Publications
 #### Journal Papers
+* Tatsuya Hiraoka, <u>Sho Takase</u>, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Joint Optimization of Word Segmentation and Downstream Model using Downstream Loss. Journal of Natural Language Processing, vol. 29, No. 1, pp. 112--143, March 2022. [pdf](https://www.jstage.jst.go.jp/article/jnlp/29/1/29_112/_article/-char/ja)
 * Tatsuya Hiraoka, <u>Sho Takase</u>, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Recurrent Neural Hidden Markov Model for High-Order Transition. ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), vol. 21, issue 2, pp. 1–-15, March 2022. [pdf](https://dl.acm.org/doi/pdf/10.1145/3476511)
 * Tatsuya Hiraoka, <u>Sho Takase</u>, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Optimizing Word Segmentation for Downstream Tasks by Weighting Text Vector (in Japanese). Journal of Natural Language Processing, vol. 28, No. 2, pp. 479--507, June 2021. [pdf](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_479/_pdf/-char/ja)
 * <u>Sho Takase</u>, Naoaki Okazaki, Kentaro Inui. Learning to Compose Distributed Representations of Relational Patterns (in Japanese). Transactions of the Japanese Society for Artificial Intelligence, vol. 32, No. 4., July 2017. [pdf](https://www.jstage.jst.go.jp/article/tjsai/32/4/32_D-G96/_pdf)
