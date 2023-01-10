@@ -1,12 +1,11 @@
 ###### ([slideshare](https://www.slideshare.net/shotakase33), [github](https://github.com/takase))
 
-Assistant Professor at Okazaki lab, Tokyo Institute of Technology
-e-mail: sho.takase [aatt] nlp.c.titech.ac.jp
+Senior Researcher at LINE Corporation
+e-mail: sho.takase [aatt] linecorp.com
 
 ## Research Interest
-Knowledge acquisition  
-Phrase/Sentence composition  
 Neural Language Model
+Efficient Neural Model
 
 ## Publications
 #### Journal Papers
@@ -111,7 +110,8 @@ Young Researcher Association for NLP Studies (YANS)
 * 高次ヒューマンインタフェース（非常勤講師） (2020 - 2021).
 
 ## Biography
-* Assistant Professor, Tokyo Institute of Technology (2020. 4 - ).
+* Senior Researcher, LINE Corporation (2022. 10 - ).
+* Assistant Professor, Tokyo Institute of Technology (2020. 4 - 2022. 9).
 * Researcher, Tokyo Institute of Technology (2018.10 - 2020. 3).
 * Research associate, NTT Communication Science Laboratories (2017.4 - 2018.9).
 * Ph.D. Graduate School of Information Sciences, Tohoku University (2014. 4 - 2017. 3).
