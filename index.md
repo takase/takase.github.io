@@ -1,6 +1,7 @@
 ###### ([slideshare](https://www.slideshare.net/shotakase33), [github](https://github.com/takase))
 
 Senior Researcher at LINE Corporation
+
 e-mail: sho.takase [aatt] linecorp.com
 
 ## Research Interest
