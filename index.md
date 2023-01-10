@@ -5,6 +5,7 @@ e-mail: sho.takase [aatt] linecorp.com
 
 ## Research Interest
 Neural Language Model
+
 Efficient Neural Model
 
 ## Publications
