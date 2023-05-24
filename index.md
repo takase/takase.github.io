@@ -11,6 +11,7 @@ Efficient Neural Model
 
 ## Publications
 #### Journal Papers
+* Ayana Niwa, <u>Sho Takase</u>, Naoaki Okazaki. Nearest Neighbor Non-autoregressive Text Generation. Journal of Information Processing. vol. 31, pp. 344--352, 2023. [pdf](https://www.jstage.jst.go.jp/article/ipsjjip/31/0/31_344/_article/-char/ja/)
 * Tatsuya Hiraoka, <u>Sho Takase</u>, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Joint Optimization of Word Segmentation and Downstream Model using Downstream Loss. Journal of Natural Language Processing, vol. 29, No. 1, pp. 112--143, March 2022. [pdf](https://www.jstage.jst.go.jp/article/jnlp/29/1/29_112/_article/-char/ja)
 * Tatsuya Hiraoka, <u>Sho Takase</u>, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Recurrent Neural Hidden Markov Model for High-Order Transition. ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), vol. 21, issue 2, pp. 1–-15, March 2022. [pdf](https://dl.acm.org/doi/pdf/10.1145/3476511)
 * Tatsuya Hiraoka, <u>Sho Takase</u>, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Optimizing Word Segmentation for Downstream Tasks by Weighting Text Vector (in Japanese). Journal of Natural Language Processing, vol. 28, No. 2, pp. 479--507, June 2021. [pdf](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_479/_pdf/-char/ja)
@@ -20,6 +21,8 @@ Efficient Neural Model
 
 
 #### (Refereed) International Conference and Workshop Papers
+* Nozomu Miyamoto, Masaru Isonuma, <u>Sho Takase</u> Junichiro Mori, Ichiro Sakata. Dynamic Structured Neural Topic Model with Self-Attention Mechanism. In Findings of the Association for Computational Linguistics: ACL 2023.
+* <u>Sho Takase</u>, Shun Kiyono, Sosuke Kobayashi, Jun Suzuki. B2T Connection: Serving Stability and Performance in Deep Transformers. In Findings of the Association for Computational Linguistics: ACL 2023. [pdf](https://arxiv.org/abs/2206.00330), [code](https://github.com/takase/b2t_connection).
 * Mengsay Loem, <u>Sho Takase</u>, Masahiro Kaneko, Naoaki Okazaki. ExtraPhrase: Efficient Data Augmentation for Abstractive Summarization. In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop. pp. 16–-24, 2022. [pdf](https://aclanthology.org/2022.naacl-srw.3/)
 * <u>Sho Takase</u>, Naoaki Okazaki. Multi-Task Learning for Cross-Lingual Abstractive Summarization. In Proceedings of the Thirteenth Language Resources and Evaluation Conference (LREC). pp. 3008--3016, 2022. [pdf](https://aclanthology.org/2022.lrec-1.322)
 * Tatsuya Hiraoka, <u>Sho Takase</u>, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Word-level Perturbation Considering Word Length and Compositional Subwords. pp. 3268-–3275, 2022. [pdf](https://aclanthology.org/2022.findings-acl.199/)
@@ -48,9 +51,6 @@ Efficient Neural Model
 * <u>Sho Takase</u>, Naoaki Okazaki and Kentaro Inui. Set Expansion using Sibling Relations between Semantic Categories. In Proceedings of the 26th Pacific Asia Conference on Language Information and Computing (PACLIC26), pp.525--534, November 2012. [pdf](http://www.aclweb.org/anthology/Y12-1057)
 
 
-#### Preprint
-* <u>Sho Takase</u>, Shun Kiyono, Sosuke Kobayashi, Jun Suzuki. On Layer Normalizations and Residual Connections in Transformers. [pdf](https://arxiv.org/abs/2206.00330), [code](https://github.com/takase/b2t_connection).
-
 #### Misc
 * <u>高瀬 翔</u>. NLP若手の会 (YANS) 第 16 回シンポジウム ―オンライン開催における施策について―. Journal of Natural Language Processing, vol. 28, No. 4, Dec 2021.
 * <u>高瀬 翔</u>. 実験を通して既存手法を整理する ―系列変換タスクにおける摂動の効率の調査―. Journal of Natural Language Processing, vol. 28, No. 3, Sep 2021.
@@ -74,6 +74,7 @@ Efficient Neural Model
 
 
 ## Awards
+* The 29th Annual Meeting of The Association for Natural Language Processing Special Committee Award (2023).
 * The Association for Natural Language Processing Best paper award (first place) (2022).
 * The 28th Annual Meeting of The Association for Natural Language Processing Special Committee Award (2022).
 * The 28th Annual Meeting of the Association for Natural Language Processing Best Paper Award (2022).
