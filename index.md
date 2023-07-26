@@ -21,7 +21,7 @@ Efficient Neural Model
 
 
 #### (Refereed) International Conference and Workshop Papers
-* <u>Sho Takase</u>, Shun Kiyono. Lessons on Parameter Sharing across Layers in Transformers. In Proceedings of The Fourth Workshop on Simple and Efficient Natural Language Processing (SustaiNLP). pp. 78-–90, 2023. [pdf](https://aclanthology.org/2023.sustainlp-1.5/)
+* <u>Sho Takase</u>, Shun Kiyono. Lessons on Parameter Sharing across Layers in Transformers. In Proceedings of The Fourth Workshop on Simple and Efficient Natural Language Processing (SustaiNLP). pp. 78-–90, 2023. [pdf](https://aclanthology.org/2023.sustainlp-1.5/), [code](https://github.com/takase/share_layer_params)
 * Mengsay Loem, Masahiro Kaneko, <u>Sho Takase</u>, Naoaki Okazaki. Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods. In Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023). pp. 205–-219, 2023. [pdf](https://aclanthology.org/2023.bea-1.18/)
 * Nozomu Miyamoto, Masaru Isonuma, <u>Sho Takase</u> Junichiro Mori, Ichiro Sakata. Dynamic Structured Neural Topic Model with Self-Attention Mechanism. In Findings of the Association for Computational Linguistics: ACL 2023.
 * <u>Sho Takase</u>, Shun Kiyono, Sosuke Kobayashi, Jun Suzuki. B2T Connection: Serving Stability and Performance in Deep Transformers. In Findings of the Association for Computational Linguistics: ACL 2023. [pdf](https://arxiv.org/abs/2206.00330), [code](https://github.com/takase/b2t_connection).
