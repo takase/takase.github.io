@@ -21,6 +21,8 @@ Efficient Neural Model
 
 
 #### (Refereed) International Conference and Workshop Papers
+* <u>Sho Takase</u>, Shun Kiyono. Lessons on Parameter Sharing across Layers in Transformers. In Proceedings of The Fourth Workshop on Simple and Efficient Natural Language Processing (SustaiNLP). pp. 78-–90, 2023. [pdf](https://aclanthology.org/2023.sustainlp-1.5/)
+* Mengsay Loem, Masahiro Kaneko, <u>Sho Takase</u>, Naoaki Okazaki. Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods. In Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023). pp. 205–-219, 2023. [pdf](https://aclanthology.org/2023.bea-1.18/)
 * Nozomu Miyamoto, Masaru Isonuma, <u>Sho Takase</u> Junichiro Mori, Ichiro Sakata. Dynamic Structured Neural Topic Model with Self-Attention Mechanism. In Findings of the Association for Computational Linguistics: ACL 2023.
 * <u>Sho Takase</u>, Shun Kiyono, Sosuke Kobayashi, Jun Suzuki. B2T Connection: Serving Stability and Performance in Deep Transformers. In Findings of the Association for Computational Linguistics: ACL 2023. [pdf](https://arxiv.org/abs/2206.00330), [code](https://github.com/takase/b2t_connection).
 * Mengsay Loem, <u>Sho Takase</u>, Masahiro Kaneko, Naoaki Okazaki. ExtraPhrase: Efficient Data Augmentation for Abstractive Summarization. In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop. pp. 16–-24, 2022. [pdf](https://aclanthology.org/2022.naacl-srw.3/)
